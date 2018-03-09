@@ -1,0 +1,5 @@
+com/ibm/db/util/DBCommunicator.class
+com/ibm/db/DBSelect.class
+com/ibm/db/util/PatchedCredentialUtils.class
+com/ibm/db/util/Test.class
+com/ibm/db/util/JSonDocumentTemplateClass.class

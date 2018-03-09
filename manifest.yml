@@ -1,0 +1,12 @@
+---
+applications:
+- path: target/DBQueryInterface-0.0.1-SNAPSHOT.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: DBQueryInterface
+  host: DBQueryInterface
+  disk_quota: 512M
+  services:
+  - availability-monitoring-auto
+  - arpitCloudantNoSQLDB
